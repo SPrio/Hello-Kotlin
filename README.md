@@ -1,5 +1,5 @@
 # Kotlin Bootcamp for Programmers
-A course to getting started with kotlin.
+Getting started with Kotlin language. Lets Go!
 ## Hello Kotlin
 ```kotlin
 fun printHello() {
