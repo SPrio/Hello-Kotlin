@@ -1,0 +1,4 @@
+listOf(null,null)
+[null, null]
+var list: List<Int?> = listOf(null, null)
+var list2:List<Int>? = null

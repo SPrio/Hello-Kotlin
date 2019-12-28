@@ -1,0 +1,3 @@
+
+nullTest?.plus(1) ?: 0
+res49: kotlin.Int = 0
